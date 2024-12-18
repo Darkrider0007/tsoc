@@ -15,6 +15,7 @@ import HIW7 from "./HowItWorks/HIW7.png";
 import HIW8 from "./HowItWorks/HIW8.png";
 import HIW9 from "./HowItWorks/HIW9.png";
 import Hirinig1 from "./Hiring/Hirinig1.png";
+import Writing from "./Hiring/writing.png";
 
 interface HireFromUs {
   card1: string;
@@ -34,6 +35,7 @@ interface HireFromUs {
   HIW8: string;
   HIW9: string;
   Hirinig1: string;
+  Writing: string;
 }
 
 const HireFromUs: HireFromUs = {
@@ -54,6 +56,7 @@ const HireFromUs: HireFromUs = {
   HIW8,
   HIW9,
   Hirinig1,
+  Writing,
 };
 
 export default HireFromUs;

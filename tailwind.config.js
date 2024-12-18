@@ -60,6 +60,8 @@ export default {
         Dim_Gray: "#707070",
         Alice_Blue: "#EEF8FF ",
         Slate_Gray: "#5C6972",
+        Off_Black: "#111111",
+        Light_Periwinkle: "#E7ECF7",
       },
     },
   },

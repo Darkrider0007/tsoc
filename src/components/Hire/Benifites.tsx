@@ -26,7 +26,7 @@ function Benifites() {
                         </div>
                     ))}
                 </div>
-                <button className="bg-Cobalt_Blue text-white font-rubik font-medium text-lg rounded-md px-5 py-3 mt-10">Request Talent Today</button>
+                <button className="bg-Cobalt_Blue text-white font-rubik font-medium text-lg rounded-md px-5 py-3 mt-12">Request Talent Today</button>
             </div>
         </div>
     );
