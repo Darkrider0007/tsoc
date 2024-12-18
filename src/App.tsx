@@ -1,4 +1,5 @@
 import Navbar from "./components/Global/Navbar"
+import Benifites from "./components/Hire/Benifites"
 import HeroSection from "./components/Hire/HeroSection"
 import RecruitersStory from "./components/Hire/RecruitersStory"
 
@@ -11,6 +12,7 @@ function App() {
         <Navbar />
         <HeroSection />
         <RecruitersStory />
+        <Benifites />
       </div>
     </>
   )
