@@ -1,11 +1,16 @@
-import { Button } from "./components/ui/button"
+import Navbar from "./components/Global/Navbar"
+import HeroSection from "./components/Hire/HeroSection"
+import RecruitersStory from "./components/Hire/RecruitersStory"
+
 
 function App() {
   return (
     <>
-      <div className="flex justify-center items-center min-h-screen">
+      <div className="flex flex-col min-h-screen font-sans">
 
-        <Button>Click me</Button>
+        <Navbar />
+        <HeroSection />
+        <RecruitersStory />
       </div>
     </>
   )
